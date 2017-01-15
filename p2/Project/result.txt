@@ -1,0 +1,34 @@
+
+____________________________________________________________________
+Testing question: q6
+--------------------------------------------------------------------
+PASS: test_cases/q6/ac31noinferences.test 
+
+PASS: test_cases/q6/ac32connectedconsistent1.test 
+
+PASS: test_cases/q6/ac33connectedconsistent2.test 
+
+PASS: test_cases/q6/ac34connectedinconsistent1.test 
+
+PASS: test_cases/q6/ac35connectedinconsistent2.test 
+
+PASS: test_cases/q6/ac36disconnectedconsistent.test 
+
+PASS: test_cases/q6/ac37disconnectedinconsistent1.test 
+
+PASS: test_cases/q6/ac38disconnectedinconsistent2.test 
+
+PASS: test_cases/q6/backtracking1unsolvable.test 
+
+PASS: test_cases/q6/backtracking2noconstraints.test 
+
+PASS: test_cases/q6/backtracking3solvable1.test 
+
+PASS: test_cases/q6/backtracking4solvable2.test 
+
+PASS: test_cases/q6/sudoku1.test 
+
+--------------------------------------------------------------------
+All tests passed for question q6
+--------------------------------------------------------------------
+
